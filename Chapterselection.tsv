@@ -1,7 +1,29 @@
-Class	Chapter Name	Chatpter Name
-class_6	english	Introduction to English
-class_6	english	Grammar Basics
-class_6	english	Literature Overview
-class_7	math	Algebra Fundamentals
-class_7	math	Geometry Basics
-class_7	math	Statistics Introduction
+Class	Subject	Chapter Name
+class_6	Math	Algebra
+class_6	Math	Geometry
+class_6	Science	Biology
+class_6	Science	Chemistry
+class_7	Math	Algebra
+class_7	Math	Geometry
+class_7	Science	Biology
+class_7	Science	Chemistry
+class_8	Math	Algebra
+class_8	Math	Geometry
+class_8	Science	Biology
+class_8	Science	Chemistry
+class_9	Math	Algebra
+class_9	Math	Geometry
+class_9	Science	Biology
+class_9	Science	Chemistry
+class_10	Math	Algebra
+class_10	Math	Geometry
+class_10	Science	Biology
+class_10	Science	Chemistry
+class_11	Math	Calculus
+class_11	Math	Statistics
+class_11	Physics	Mechanics
+class_11	Physics	Electricity
+class_12	Math	Calculus
+class_12	Math	Statistics
+class_12	Physics	Mechanics
+class_12	Physics	Electricity
